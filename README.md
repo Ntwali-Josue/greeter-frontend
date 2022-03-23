@@ -1,62 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Greeter App
 
-> Description the project.
+> In this project, I create a simple web app which greets the user with different messages from different languages.
 
+## Deployment: 
+[Budget-App](https://radiant-mesa-62154.herokuapp.com/)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
+- React
+- Redux
+- PostgreSQL
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 📌
+- `Node`
 
-### Setup
+### Setup 🔂 
+- Clone the repository using this [GitHub](https://github.com/Ntwali-Josue/greeter-frontend.git) link.
+- `cd` into the directory
+### Install ⚙️
+- Run `bundle install`
+### Database 💾
+- Run `rails db:create` to create the database.
+- Run `rails db:migrate` to create the tables.
+- Run `rails db:seed` to populate the tables.
+### Usage 💻
+- Run `rails s` to start the server.
 
-### Install
+### Testing 🔎
+- Run `rspec` to run the tests.
+- Run `rubocop` to run the linters.
+## Author
 
-### Usage
+👤 **KARANGWA Ntwali Josue**
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Ntwali-Josue](https://github.com/Ntwali-Josue)
+- Twitter: [Ntwali-Josue](https://twitter.com/JosueNtwali)
+- LinkedIn: [Ntwali-Josue](https://linkedin.com/in/karangwa)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ntwali-Josue/Budget-app/issues).
 
 ## Show your support
 
@@ -64,9 +54,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original designs by Gregoire Vella on Behance
 
 ## 📝 License
 
